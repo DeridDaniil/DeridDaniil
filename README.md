@@ -10,7 +10,7 @@ Frontend-разработчик из Санкт-Петербурга. Разра
 
 | Проект | Что реализовано | Демо |
 |---|---|---|
-| [Games-React](https://github.com/DeridDaniil/Games-React) | Настольные игры: модели партий, правила ходов, алгоритмический соперник. Vitest, React Testing Library, проверки типов и ESLint | Инструкции запуска в репозитории |
+| [Boardroom](https://github.com/DeridDaniil/Boardroom) | Настольные игры: модели партий, правила ходов, алгоритмический соперник. Vitest, React Testing Library, проверки типов и ESLint | Инструкции запуска в репозитории |
 | [SalesPilot Dashboard](https://github.com/DeridDaniil/SalesPilot-Dashboard) | CRM-демо: клиенты, лиды, роли и графики. Redux Toolkit, сервисный слой и формы; данные и авторизация локальные | [Открыть](https://sales-pilot-dashboard.vercel.app) |
 | [Renova-AI](https://github.com/DeridDaniil/Renova-AI) | MVP помощника для ремонтных заявок: Gemini API, нормализация полей, scoring, Supabase-адаптер и деморежим | [Открыть](https://renova-ai-gamma.vercel.app) |
 
